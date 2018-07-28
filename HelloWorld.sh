@@ -1,6 +1,5 @@
 #! /bin/bash
+# this is a comment
+echo "Hello World" # this is another comment
 
-echo "Hello World"
-echo "Hello from the feature branch"
-echo "new feature for the master branch"
-echo "new feature for feature branch"
+
